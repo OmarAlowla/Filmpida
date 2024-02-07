@@ -1,0 +1,21 @@
+Film
+1;Forrest Gump;Drama;150;
+2;Avengers Endgame;Action;182;
+3;Tenet;Science-Fiction;150;
+4;Bad Boys for Life;Action;124;
+1;Forrest Gump;Drama;150;
+5;Mulan;Fantasyfilm;90;
+6;Greenland;Action;110;
+7;Monster Hunter;Action;120;
+8;Wir koennen nicht anders;Action;95;
+9;Kaiserschmarrndrama;Komoedie;92;
+10;New Mutants;Action;112;
+11;Unhinged Außer Kontrolle;Thriller;96;
+12;Es ist zu deinem Besten;Komoedie;110;
+13;Wonder Woman 1984;Action;112;
+1;Forrest Gump;Drama;150;
+2;Avengers Endgame;Action;182;
+10;New Mutants;Action;112;
+11;Unhinged Außer Kontrolle;Thriller;96;
+12;Es ist zu deinem Besten;Komoedie;110;
+13;Wonder Woman 1984;Action;112;
